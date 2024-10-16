@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome%20to%20my%20GitHub;It's%20nice%20to%20meet%20you!)](https://git.io/typing-svg)
+
+
 <!--
 **daniela-cvmelo/Daniela-CVMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
