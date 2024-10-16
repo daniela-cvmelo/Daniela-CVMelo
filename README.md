@@ -1,6 +1,6 @@
 <h2>💻 Daniela Carvalho Melo</h2>
 
-<img src="https://steemitimages.com/DQmbXSE1p1j14P8TYTbEb5cZpXK9tLGxccW5Qbdvgp96Zm3/divisoria7.gif">
+<img src="[https://steemitimages.com/DQmbXSE1p1j14P8TYTbEb5cZpXK9tLGxccW5Qbdvgp96Zm3/divisoria7.gif](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjkwOTI1OTQsIm5iZiI6MTcyOTA5MjI5NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDE2VDE1MjQ1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmMDJiMjYzNWNhZTJjN2UzYzQ4MjA1YzU4OGIzNTllNmIzOGE4OWJiYjg1MDkwYTZmN2EzYTViNDBkMGI2MmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.YDKLraIz8CvPlMg378g5hmC9KO5K_sTpfP2XtmL_rXQ)">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=650&size=30&pause=1000&color=9421CF&width=435&lines=Hello!+Welcome+to+my+Github!;It's+nice+to+meet+you!;Feel+free+to+contact+me!)](https://git.io/typing-svg)
 
