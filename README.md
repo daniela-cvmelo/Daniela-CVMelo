@@ -1,6 +1,6 @@
 <h2>💻 Daniela Carvalho Melo</h2>
 
-<img src href=https://steemitimages.com/DQmbXSE1p1j14P8TYTbEb5cZpXK9tLGxccW5Qbdvgp96Zm3/divisoria7.gif>
+<img src="https://steemitimages.com/DQmbXSE1p1j14P8TYTbEb5cZpXK9tLGxccW5Qbdvgp96Zm3/divisoria7.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=650&size=30&pause=1000&color=9421CF&width=435&lines=Hello!+Welcome+to+my+Github!;It's+nice+to+meet+you!;Feel+free+to+contact+me!)](https://git.io/typing-svg)
 
