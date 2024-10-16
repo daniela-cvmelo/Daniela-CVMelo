@@ -6,7 +6,7 @@
 
 
 
-<b>I am a Internet Systems student, focusing on Front End, Web Development and Python.</b>
+<b>💻 I am a Internet Systems student, focusing on Front End, Web Development and Python.</b>
 
 
 
