@@ -6,7 +6,7 @@
 
 
 
-<b>💻 I am a Internet Systems student, focusing on Web Development, Python and Java.</b>
+<b>💻 I am a Internet Systems student. Principal skills: Web Development (HTML5, CSS3, JavaScript), Python, Java.</b>
 
 
 
