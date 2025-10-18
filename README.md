@@ -6,7 +6,7 @@
 
 
 
-<b>💻 I am a Internet Systems student. Principal skills: Web Development (HTML5, CSS3, JavaScript), Python, Java.</b>
+<b>💻 I am a Full Stack Developer. Principal skills: React.js, Node.js, TypeScript, JavaScript, Java, PostgreeSQL, Docker</b>
 
 
 
